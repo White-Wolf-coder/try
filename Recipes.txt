@@ -6,5 +6,8 @@ Java
 Python
 C Sharp
 
+HTML
+CSS
+JavaScript
 
 Thanks
