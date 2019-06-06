@@ -6,6 +6,11 @@ Java
 Python
 C Sharp
 
+HTML
+CSS
+JavaScript
 
 Thanks
+
 Final Copy
+
